@@ -1,0 +1,12 @@
+  
+     Cargo.lock
+    
+    # Target directory
+    /target/
+    
+    # Remove Vim swap files
+    *.swp
+    
+    # Remove Mac DS_Store files
+    .DS_Store
+    
